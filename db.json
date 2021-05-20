@@ -1,20 +1,30 @@
+
 {
-"emp":[
-  {
-"sno": 2,
-"imei": "2120MHVN679931",
-"bin": "535AFSAFS534",
-"size": "2 GB",
-"status": "Uploaded",
-"client": "Exicom"
-},
-{
-"sno": 1,
-"imei": "2021MHVN679931",
-"bin": "AFSAFS534",
-"size": "2 GB",
-"status": "Uploaded",
-"client": "big-basket"
-}
-]
+  "employees": [
+      {
+        "sno":"1",
+        "imei":"452165",
+        "bin":"35435",
+        "size":"4",
+        "status":"approved",
+        "client":"exicom",
+      },
+      {
+        "sno":"2",
+        "imei":"452165",
+        "bin":"35435",
+        "size":"4",
+        "status":"approved",
+        "client":"exicom",
+     },
+      {
+        "sno":"3",
+        "imei":"452165",
+        "bin":"35435",
+        "size":"4",
+        "status":"approved",
+        "client":"exicom",
+        
+      }
+  ]
 }
