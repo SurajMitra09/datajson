@@ -1,0 +1,18 @@
+[
+{
+"sno": 2,
+"imei": "2120MHVN679931",
+"bin": "535AFSAFS534",
+"size": "2 GB",
+"status": "Uploaded",
+"client": "Exicom"
+},
+{
+"sno": 1,
+"imei": "2021MHVN679931",
+"bin": "AFSAFS534",
+"size": "2 GB",
+"status": "Uploaded",
+"client": "big-basket"
+}
+]
